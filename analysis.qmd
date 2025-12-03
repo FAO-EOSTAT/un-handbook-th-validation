@@ -176,7 +176,7 @@ ro_samples_sf <- sits_stratified_sampling(
     cube = rondonia_2022_class,
     sampling_design = ro_sampling_design,
     alloc = "alloc_120",
-    multicores = 42
+    multicores = 4
 )
 ```
 
